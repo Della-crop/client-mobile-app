@@ -1,0 +1,3 @@
+rootProject.name = 'fall_detection'
+
+include ':app'
